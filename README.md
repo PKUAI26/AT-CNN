@@ -1,5 +1,5 @@
-## README
 
+# How to run
 If you want to run code on your own, I stongly recomend you to run code on Caltech-256, because code for experiements on Caltech-256 are the most well structured one. 
 
 We do not upload the dataset and trainned networks due to the fact that they storage consuming.
@@ -10,7 +10,7 @@ We do not upload the dataset and trainned networks due to the fact that they sto
 
 ### The four most important python files for Caltech-256
 
-They are all in  `/code/Caltech256/code/baseline/` :
+They are all in  `/code/baseline/` :
 
  `main.py`, `attack.py`, `utils.py` `dataset.py`
 
@@ -31,23 +31,13 @@ They are all in  `/code/Caltech256/code/baseline/` :
 
 
 
-## TinyImageNet
+## TinyImageNet & CIFAR-10
 
-Code for TinyImageNet are similar to that for `Caltech-256`,  important python files such as `main.py`, `utils.py`, `attack.py` has the same name and functionallities
+Code for TinyImageNet, and CIAFR-10 are similar to that for `Caltech-256`,  important python files such as `main.py`, `utils.py`, `attack.py` has the same name and functionallities
 
 You still have to download the images from https://tiny-imagenet.herokuapp.com and put them to `/code/TinyImageNet/data`
 
 
-
-## CIFAR-10
-
-Codes for CIFAR-10 still has similar structures with that for Caltech256 and TinyImageNet, but due to the fact that code for CIFAR-10 is written log ago, so they are not well strcutured.
-
-
-
-`/code/Cifar/code/baseline` contains all the files for CIFAR10
-
-1. `main.py` , `utils.py`, `attack.py` have the same functionality with that for Caltech-256 and TinyImageNet
 
    
 
