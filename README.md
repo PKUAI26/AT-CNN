@@ -2,7 +2,7 @@
 # How to run
 If you want to run code on your own, I only provide codes on Caltech-256.
 We do not upload the dataset and trainned networks due to the fact that they are storage consuming.
-Training(Adversarial Training) scripts in this repo is not well writen, I suugest you to use your own scripts, or scripts provided in (this repo)[https://github.com/a1600012888/YOPO-You-Only-Propagate-Once]
+Training(Adversarial Training) scripts in this repo is not well writen, I suugest you to use your own scripts, or scripts provided in [this repo](https://github.com/a1600012888/YOPO-You-Only-Propagate-Once)
 
 
 
