@@ -18,15 +18,16 @@ They are all in  `/code/baseline/` :
 2. `attack.py` implements PGD and FGSM attackers.
 3. `utils.py` implements **SmoothGrad** 
 4. `dataset.py` implements **Saturation** and **Patch-shuffle** operation. For style transfer, you have to use code provided in https://github.com/rgeirhos/Stylized-ImageNet/tree/master/code
+5. `stAdv.py` in code/spatial-transform.adv.train/ implements Spatially transformed attack.
 
 
 
 ### How to run
 
 1. Dowload the data from  http://www.vision.caltech.edu/Image_Datasets/Caltech101/Caltech101.html to `/code/Caltech256/data`  
-2. `cd /code/Caltech256/data`   and run `Partition.py` to generate training set and test set.
-3. `cd /code/Caltech256/code/baseline` and run `main.py` to train standard CNNs
-4.  `cd /code/Caltech256/code/pgd.inf.eps8` and run `main.py` to adversarially train CNNs against a $l_{\inf}$ -norm bounded PGD attacker. code in `/code/Caltech256/code/pgd.l2.eps8`  are for $l_2$ -norm bounded adversarial training .
+2. `cd data`   and run `Partition.py` to generate training set and test set.
+3. `cd code/baseline` and run `main.py` to train standard CNNs
+4.  `cd code/pgd.inf.eps8` and run `main.py` to adversarially train CNNs against a $l_{\inf}$ -norm bounded PGD attacker. code in `/code/Caltech256/code/pgd.l2.eps8`  are for $l_2$ -norm bounded adversarial training .
 5.  `gen_visual.py` and ` utils.py` in  `/code/Caltech256/code/baseline/` contains code to generate salience maps.
 
 
