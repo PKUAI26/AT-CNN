@@ -1,6 +1,6 @@
 # Interpreting Adversarially Trained Convolutional Neural Networks
 
-Code for our [paper](https://arxiv.org/abs/1905.09797): Interpreting Adversarially Trained Convolutional Neural Networks" by [Tianyuan Zhang](http://tianyuanzhang.com), [Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu).
+Code for our [paper](https://arxiv.org/abs/1905.09797): **Interpreting Adversarially Trained Convolutional Neural Networks**, by [Tianyuan Zhang](http://tianyuanzhang.com), [Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu).
 
 
 
