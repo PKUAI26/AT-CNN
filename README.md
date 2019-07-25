@@ -1,6 +1,6 @@
 # Interpreting Adversarially Trained Convolutional Neural Networks
 
-Code for our [paper](https://arxiv.org/abs/1905.09797): **Interpreting Adversarially Trained Convolutional Neural Networks**, by [Tianyuan Zhang](http://tianyuanzhang.com), [Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu).
+Code for our [ICML'19 paper](https://arxiv.org/abs/1905.09797): **Interpreting Adversarially Trained Convolutional Neural Networks**, by [Tianyuan Zhang](http://tianyuanzhang.com), [Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu).
 
 
 
@@ -43,7 +43,15 @@ Code for TinyImageNet, and CIAFR-10 are similar to that for `Caltech-256`,  impo
 
 You still have to download the images from https://tiny-imagenet.herokuapp.com and put them to `/code/TinyImageNet/data`
 
-
-
+## Reference
+```
+@article{zhang2019interpreting,
+  title={Interpreting Adversarially Trained Convolutional Neural Networks},
+  author={Zhang, Tianyuan and Zhu, Zhanxing},
+  journal={arXiv preprint arXiv:1905.09797},
+  year={2019}
+}
+```
+Please contact [tianyuanzhang.com](tianyuanzhang.com) if you get any question on this paper or the code. ) （＾∀＾）
    
 
