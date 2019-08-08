@@ -52,6 +52,6 @@ You still have to download the images from https://tiny-imagenet.herokuapp.com a
   year={2019}
 }
 ```
-Please contact [tianyuanzhang.com](tianyuanzhang.com) if you get any question on this paper or the code. ) （＾∀＾）
+Please contact [tianyuanzhang](tianyuanzhang.com) if you get any question on this paper or the code. ) （＾∀＾）
    
 
